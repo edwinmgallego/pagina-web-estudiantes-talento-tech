@@ -1,3 +1,3 @@
 document.getElementById('btnMensaje').addEventListener('click', function() {
-    alert('¡Gracias por contactar, Juan Pérez!');
+    alert('¡Gracias por contactar, Carlos Hoyos!');
 });
